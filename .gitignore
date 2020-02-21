@@ -17,3 +17,6 @@ logs/*
 crash-reports/*
 encyclopedia-servers/*
 hammercore/*
+options.txt
+crafttweaker.log
+minecraftinstance.json
