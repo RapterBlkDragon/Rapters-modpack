@@ -11,7 +11,8 @@
         "main",
         "interaction",
         "system",
-        "death"
+        "death",
+        "rapterblkdragon"
       ]
     },
     {
@@ -45,11 +46,7 @@
       "isExclusive": false,
       "isMuted": false,
       "channels": [
-        "rapterblkdragon",
-        "main",
-        "death",
-        "system",
-        "interaction"
+        "rapterblkdragon"
       ]
     }
   ]

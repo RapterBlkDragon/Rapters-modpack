@@ -2,20 +2,20 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
-gamma:0.5633803
+gamma:1.0
 saturation:0.0
-renderDistance:16
+renderDistance:20
 guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
-maxFps:120
+maxFps:260
 fboEnable:true
 difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:[]
+resourcePacks:["Sphax64x_All_The_Mods_3.zip","PureBDcraft  64x MC112.zip","PureBDcraft Damaged Items MC112.zip","PureBDcraft Extra Optifine MC112.zip"]
 incompatibleResourcePacks:[]
 lastServer:fullmode.duckdns.org:14034
 lang:en_us
@@ -25,8 +25,8 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:true
-enableVsync:false
+fullscreen:false
+enableVsync:true
 useVbo:true
 hideServerAddress:false
 advancedItemTooltips:false
@@ -74,8 +74,8 @@ key_key.fullscreen:87
 key_key.spectatorOutlines:0
 key_key.swapHands:33
 key_key.saveToolbarActivator:210
-key_key.loadToolbarActivator:0
-key_key.advancements:66
+key_key.loadToolbarActivator:45
+key_key.advancements:38
 key_key.hotbar.1:2
 key_key.hotbar.2:3
 key_key.hotbar.3:4
@@ -90,7 +90,7 @@ key_ALT Key:56
 key_Boost Key:29
 key_Mode Switch Key:0
 key_Side Inventory Key:210
-key_Hub Expand Key:0
+key_Hub Expand Key:45
 key_keybind.baublesinventory:81
 key_key.toggle_shaders:0
 key_cos.key.opencosarmorinventory:0
@@ -100,26 +100,26 @@ key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
 key_keybind.hammercorerenderstack:77
 key_key.ironbackpacks.equip:35
-key_key.ironbackpacks.open:23
+key_key.ironbackpacks.open:0
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_openblocks.keybind.vario_switch:47
 key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
-key_oreexcavation.key.excavate:41
-key_oreexcavation.key.shape:44
+key_oreexcavation.key.excavate:-97
+key_oreexcavation.key.shape:47
 key_key.ping:47
-key_ping.key.alert:81
-key_ping.key.mine:76
-key_ping.key.look:79
-key_ping.key.goto:80
-key_simplyjetpacks.keybind.engine:34
-key_simplyjetpacks.keybind.hover:38
-key_simplyjetpacks.keybind.charger:25
+key_ping.key.alert:0
+key_ping.key.mine:0
+key_ping.key.look:0
+key_ping.key.goto:0
+key_simplyjetpacks.keybind.engine:73
+key_simplyjetpacks.keybind.hover:72
+key_simplyjetpacks.keybind.charger:71
 key_simplyjetpacks.keybind.emergencyhover:55
 key_keys.quantumstorage.openbag:79
 key_key.toastcontrol.clear:36
-key_key.open_wct.desc:0
+key_key.open_wct.desc:23
 key_key.cycle_magnet_mode.desc:0
 key_key.xtones.scroll:42
 key_key.toggle_focus.desc:15
@@ -127,14 +127,14 @@ key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
 key_key.jei.toggleEditMode:0
-key_key.jei.showRecipe:19
+key_key.jei.showRecipe:55
 key_key.jei.showUses:22
 key_key.jei.recipeBack:14
 key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
-key_key.cofh.multimode:46
+key_key.cofh.multimode:75
 key_key.placeItem:25
 key_key.toolConfig:46
 key_key.toolProfileChange:43
@@ -154,7 +154,7 @@ key_key.fuzzy:0
 key_key.connected_area:0
 key_key.rotate_mirror:0
 key_key.material_list:0
-key_key.carry.desc:42
+key_key.carry.desc:0
 key_key.chattweaks.switch_chat_view:15:SHIFT
 key_mod.chiselsandbits.chiselmode.single:0
 key_mod.chiselsandbits.chiselmode.snap2:0
@@ -205,18 +205,18 @@ key_key.keyExtraInvo:45
 key_key.keyWheel:181
 key_key.keyExtraCraftin:210
 key_key.keySkills:37
-key_Dynamic Lights toggle:0
+key_Dynamic Lights toggle:38
 key_key.refinedstorage.focusSearchBar:15
 key_key.refinedstorage.clearGridCraftingMatrix:45:CONTROL
 key_key.refinedstorage.openWirelessGrid:0
 key_key.refinedstorage.openWirelessFluidGrid:0
 key_key.refinedstorage.openPortableGrid:0
 key_key.refinedstorage.openWirelessCraftingMonitor:0
-key_key.toggleLiquids:0
+key_key.toggleLiquids:38
 key_key.toggleVisible:0
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
-key_mekanism.key.mode:0
+key_mekanism.key.mode:80
 key_mekanism.key.armorMode:34
 key_mekanism.key.feetMode:35
 key_mekanism.key.voice:22

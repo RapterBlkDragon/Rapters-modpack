@@ -26,7 +26,7 @@
     },
     {
       "name": "5x5",
-      "depth": 12,
+      "depth": -1,
       "reticle": 7,
       "mask": [
         "XXXXX",
@@ -56,30 +56,6 @@
         "OOOOO",
         "OOOOO",
         "OOXOO",
-        "OOOOO",
-        "OOOOO"
-      ]
-    },
-    {
-      "name": "3x4",
-      "depth": 1,
-      "reticle": 12,
-      "mask": [
-        "OOOOO",
-        "OXXXO",
-        "OXXXO",
-        "OXXXO",
-        "OXXXO"
-      ]
-    },
-    {
-      "name": "3x1",
-      "depth": 1,
-      "reticle": 12,
-      "mask": [
-        "OOOOO",
-        "OOOOO",
-        "OXXXO",
         "OOOOO",
         "OOOOO"
       ]
