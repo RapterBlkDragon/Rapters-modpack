@@ -1,0 +1,16 @@
+ignoreUpdate:58
+updateNotification:true
+differentiateByServerAddress:true
+debug:false
+lighting:true
+colours:0
+loadChunks:true
+updateChunks:true
+terrainSlopes:true
+terrainDepth:true
+footsteps:true
+flowers:false
+compression:false
+coordinates:true
+biomeColorsVanillaMode:false
+globalVersion:12

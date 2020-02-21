@@ -1,0 +1,100 @@
+{
+  "shapes": [
+    {
+      "name": "1x2",
+      "depth": -1,
+      "reticle": 12,
+      "mask": [
+        "OOOOO",
+        "OOOOO",
+        "OOXOO",
+        "OOXOO",
+        "OOOOO"
+      ]
+    },
+    {
+      "name": "3x3",
+      "depth": -1,
+      "reticle": 12,
+      "mask": [
+        "OOOOO",
+        "OXXXO",
+        "OXXXO",
+        "OXXXO",
+        "OOOOO"
+      ]
+    },
+    {
+      "name": "5x5",
+      "depth": 12,
+      "reticle": 7,
+      "mask": [
+        "XXXXX",
+        "XXXXX",
+        "XXXXX",
+        "XXXXX",
+        "XXXXX"
+      ]
+    },
+    {
+      "name": "I",
+      "depth": -1,
+      "reticle": 12,
+      "mask": [
+        "OOOOO",
+        "OXXXO",
+        "OOXOO",
+        "OXXXO",
+        "OOOOO"
+      ]
+    },
+    {
+      "name": "1",
+      "depth": -1,
+      "reticle": 12,
+      "mask": [
+        "OOOOO",
+        "OOOOO",
+        "OOXOO",
+        "OOOOO",
+        "OOOOO"
+      ]
+    },
+    {
+      "name": "3x4",
+      "depth": 1,
+      "reticle": 12,
+      "mask": [
+        "OOOOO",
+        "OXXXO",
+        "OXXXO",
+        "OXXXO",
+        "OXXXO"
+      ]
+    },
+    {
+      "name": "3x1",
+      "depth": 1,
+      "reticle": 12,
+      "mask": [
+        "OOOOO",
+        "OOOOO",
+        "OXXXO",
+        "OOOOO",
+        "OOOOO"
+      ]
+    },
+    {
+      "name": "3x3x3",
+      "depth": 3,
+      "reticle": 12,
+      "mask": [
+        "OOOOO",
+        "OXXXO",
+        "OXXXO",
+        "OXXXO",
+        "OOOOO"
+      ]
+    }
+  ]
+}
