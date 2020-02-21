@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:true
+fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
@@ -95,6 +95,9 @@ key_Side Inventory Key:210
 key_Hub Expand Key:45
 key_keybind.baublesinventory:81
 key_key.toggle_shaders:0
+key_bloodmagic.keybind.open_holding:35
+key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
+key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_cos.key.opencosarmorinventory:0
 key_key.next_item.desc:0
 key_key.previous_item.desc:0
@@ -155,6 +158,10 @@ key_key.cycleAttackAOE:0
 key_key.toggleShields:0
 key_bbw.key.mode:0
 key_bbw.key.fluidmode:33:ALT
+key_key.keyExtraInvo:45
+key_key.keyWheel:181
+key_key.keyExtraCraftin:210
+key_key.keySkills:37
 key_nei.options.keys.gui.botania_corporea_request:46
 key_key.settings_menu:34
 key_key.range:22
@@ -210,10 +217,6 @@ key_key.craftingtweaks.decompressStack:0
 key_key.craftingtweaks.decompressAll:0
 key_key.craftingtweaks.refill_last:15
 key_key.craftingtweaks.refill_last_stack:15
-key_key.keyExtraInvo:45
-key_key.keyWheel:181
-key_key.keyExtraCraftin:210
-key_key.keySkills:37
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
 key_Dynamic Lights toggle:38

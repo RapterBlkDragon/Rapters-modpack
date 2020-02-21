@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-02-21T08:23:37.5315745Z",
+  "lastPlayed": "2020-02-21T08:58:51.1709364Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -18258,6 +18258,117 @@
       "dateUpdated": "2019-02-21T08:46:42.2182875Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 228823,
+      "gameInstanceID": "867b4d02-fa6a-4167-a210-49df57dede24",
+      "installedFile": {
+        "id": 2799605,
+        "displayName": "BloodArsenal-1.12.2-2.2.1-29.jar",
+        "fileName": "BloodArsenal-1.12.2-2.2.1-29.jar",
+        "fileDate": "2019-10-01T09:26:29.397Z",
+        "fileLength": 665308,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2799/605/BloodArsenal-1.12.2-2.2.1-29.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 74072,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 228832,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 224791,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 73488,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3331711728,
+            "type": 0
+          },
+          {
+            "foldername": "arcaratus",
+            "fingerprint": 2608404471,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1587122585,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3546741890,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 611823738,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1207293857,
+        "gameVersion": [
+          "1.12",
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BloodArsenal-1.12.2-2.2.1-29.jar"
+      },
+      "dateInstalled": "2020-02-21T08:52:37.3100369Z",
+      "dateUpdated": "2020-02-21T08:52:37.3120458Z",
+      "dateLastUpdateAttempted": "2020-02-21T08:52:37.3120458Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
