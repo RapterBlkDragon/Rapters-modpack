@@ -1,2 +1,2 @@
-# Raptors-modpack
-Modpack for RaptorBlkDragon on twitch.tv
+# Rapters-modpack
+Modpack for RapterBlkDragon on twitch.tv
