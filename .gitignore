@@ -22,3 +22,4 @@ minecraftinstance.json
 config/*
 !config/cofh/*
 !scripts/*
+local/*
