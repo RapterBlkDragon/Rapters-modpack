@@ -20,4 +20,6 @@ hammercore/*
 options.txt
 *crafttweaker.log*
 *minecraftinstance.json*
-minecraftinstance.json
+config/*
+!config/cofh/*
+!scripts/*
