@@ -1,3 +1,4 @@
+
 screenshots/*
 shaderpacks/*
 TombManyGraves/*
@@ -17,14 +18,6 @@ crash-reports/*
 encyclopedia-servers/*
 hammercore/*
 options.txt
-crafttweaker.log
+*crafttweaker.log*
+*minecraftinstance.json*
 minecraftinstance.json
-.mixin.out/*
-config/IC2.ini
-config/InvTweaks.cfg
-config/jei/worldSettings.cfg
-config/splash.properties
-local/*
-config/*
-!config/cofh/*
-!
