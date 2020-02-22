@@ -1,4 +1,3 @@
-
 screenshots/*
 shaderpacks/*
 TombManyGraves/*
@@ -20,3 +19,9 @@ hammercore/*
 options.txt
 crafttweaker.log
 minecraftinstance.json
+.mixin.out/*
+config/IC2.ini
+config/InvTweaks.cfg
+config/jei/worldSettings.cfg
+config/splash.properties
+local/*
