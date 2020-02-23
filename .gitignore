@@ -24,3 +24,4 @@ config/*
 !scripts/*
 local/*
 .mixin.out/*
+BotaniaVars.dat
